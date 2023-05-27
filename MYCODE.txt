@@ -59,16 +59,16 @@ using namespace std;
 #define no cout<<"NO"<<nl
 #define si size()
 #define le length()
-#define fast_in_out ios_base::sync_with_stdio(false); cin.tie(NULL);
+#define faster ios_base::sync_with_stdio(0); cin.tie(NULL);
 const char nl = '\n';
 const int MOD=(int)1e9+7;
 
 void solve() {
-   
+
 }
 
 signed main(){
-    fast_in_out;
+    faster;
     solve();
     return 0;
 }
