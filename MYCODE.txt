@@ -36,39 +36,40 @@
 //  Gun100            |  '-'  |                |  '-'  |                                                            `.' Gun100
 //     ==============='       '================'       |
 
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
  
 #define Mi INT_MIN
 #define Ma INT_MAX
 #define fi first
 #define se second
-#define pii pair<int,int>
+#define pii pair<int, int>
+#define pci pair<char, int>
 #define int long long
 #define ld long double
 #define dou double
 #define fl float
-#define For(i,l,r) for(int i=l;i<=r;i++)
-#define Fo(i,r,l) for(int i=r;i>=l;i--)
+#define For (i, l, r) for (int i = l; i <= r; i++)
+#define Fo (i, r, l) for (int i = r; i >= l; i--)
 #define vi vector<int>
 #define vll vector<long long>
 #define pb push_back
 #define is insert
 #define wh while
-#define yes cout<<"YES"<<nl
-#define no cout<<"NO"<<nl
+#define yes cout << "YES" << nl
+#define no cout << "NO" << nl
 #define si size()
 #define le length()
 #define faster ios_base::sync_with_stdio(0); cin.tie(NULL);
 const char nl = '\n';
-const int MOD=(int)1e9+7;
+const int MOD = (int)1e9+7;
 
-void solve() {
-
+void run_case() {
+    
 }
 
-signed main(){
+signed main() {
     faster;
-    solve();
+    run_case();
     return 0;
 }
