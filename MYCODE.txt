@@ -37,39 +37,61 @@
 //     ==============='       '================'       |
 
 #include <bits/stdc++.h>
+
 using namespace std;
  
 #define Mi INT_MIN
 #define Ma INT_MAX
+
 #define fi first
 #define se second
+
 #define pii pair<int, int>
 #define pci pair<char, int>
+#define pic pair<int, char>
+#define psti pair<string, int>
+#define pist pair<int, string>
+#define pstst pair<string, string>
+
 #define int long long
-#define ld long double
+#define flt float
 #define dou double
-#define fl float
-#define For(i, l, r) for (int i = l; i <= r; i++)
+#define ldou long double
+
+#define wh while
 #define Fo(i, r, l) for (int i = r; i >= l; i--)
+#define For(i, l, r) for (int i = l; i <= r; i++)
+
 #define vi vector<int>
 #define vll vector<long long>
+#define vflt vector<flt>
+#define vdou vector<dou>
+#define vst vector<string>
+#define vcr vector<char>
+#define vpii vector<pii>
+#define vpsti vector<psti>
+#define vpist vector<pist>
+#define vpstst vector<pstst>
+
 #define pb push_back
 #define is insert
-#define wh while
-#define yes cout << "YES" << nl
+
 #define no cout << "NO" << nl
+#define yes cout << "YES" << nl
+
 #define si size()
-#define le length()
-#define faster ios_base::sync_with_stdio(0); cin.tie(NULL);
+#define len length()
+
+#define Faster ios_base::sync_with_stdio(0); cin.tie(NULL);
+
 const char nl = '\n';
 const int MOD = (int)1e9+7;
 
-void run_case() {
+void Run_Case() {
     
 }
 
 signed main() {
-    faster;
-    run_case();
+    Faster; Run_Case();
     return 0;
 }
