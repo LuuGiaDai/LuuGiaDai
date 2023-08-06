@@ -85,7 +85,8 @@ using namespace std;
 #define Faster ios_base::sync_with_stdio(0); cin.tie(NULL);
 
 const char nl = '\n';
-const int MOD = (int)1e9+7;
+const int MOD = (int)1e9 + 7;
+const int MAX = (int)1e6 + 1;
 
 void Run_Case() {
     
